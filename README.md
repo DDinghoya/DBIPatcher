@@ -40,6 +40,7 @@ Depending on the mapping, the final 20-byte version string will be patched autom
 - **Portuguese (Brazil)**: `ptbr`, `pt-br`, `brazil`, `brazilian`, `br` → `PTBR`
 - **Polish**: `pl`, `polish`, `poland`, `pol` → `PL`
 - **Russian**: `ru`, `russian`, `russia`, `rus` → `RU`
+- **Turkish**: `tr`, `turkish`, `türkiye`, `turk` → `TR`
 - **Ukrainian**: `ua`, `ukr`, `uk-ua`, `ukraine` → `UA`
 
 ### Fallback

@@ -31,6 +31,7 @@ LANG_MAP = {
     "PTBR": {"ptbr", "pt-br", "brazil", "brazilian", "br"},
     "PL": {"pl", "polish", "poland", "pol"},
     "RU": {"ru", "russian", "russia", "rus"},
+    "TR": {"tr", "turkish", "türkiye", "turk"},
     "UA": {"ua", "ukr", "uk-ua", "ukraine"},
 }
 

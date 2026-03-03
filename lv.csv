@@ -1,0 +1,1205 @@
+original,translation
+"X - выбор, Y - инверсия выбора, (+) - меню","X - izvēle, Y - inv. izvēle, (+) - izvēlne"
+"X - выбор, Y - инверсия выбора, (+) - меню, L3 - запуск","X - izvēle, Y - inv. izvēle, (+) - izvēlne, L3 - starts"
+"X - выбор, Y - инверсия выбора, (+) - меню, R3 - сортировка","X - izvēle, Y - inv. izvēle, (+) - izvēlne, R3 - kārtošana"
+"X - выбор, Y - инверсия выбора, (+) - меню, R3 - сортировка, L3 - запуск","X - izvēle, Y - inv. izvēle, (+) - izvēlne, R3 - kārtot, L3 - starts"
+"X - выбор, Y - инвертирование выбора, A - открыть, (-) - 2ая панель","X - izvēle, Y - inv. izvēle, A - atvērt, (-) - 2. panelis"
+"X - выбор, Y - инвертирование выбора, ⬅/➡ - смена панели, (-) - закрыть","X - izvēle, Y - inv. izvēle, ⬅/➡ - mainīt paneli, (-) - aizvērt"
+"ZL/ZR - смена даты, Y - период, X - сортировка, (+) - выбрать пользователя","ZL/ZR - mainīt datumu, Y - periods, X - kārtošana, (+) - izvēlēties lietotāju"
+864,864
+. Время игры \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m,. Spēles laiks \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m
+Невозможно смонтировать системный раздел,Nevar piemontēt sistēmas sadaļu
+"DPAD или стики для перемещения, (+) - Настройки","DPAD vai stiki pārvietošanai, (+) - Iestatījumi"
+Ошибка создания файла: {},Faila izveides kļūda: {}
+Подключение к серверу...,Pievienojas serverim...
+"          Париж, издательство Грассе.","Parīze, izdevniecība Grasset."
+      Название: {}\n      Издатель: {}\n      Версия: ,Nosaukums: {}\n      Izdevējs: {}\n      Versija:
+   Это действие будет нельзя отменить   ,Šo darbību nevarēs atsaukt
+SDK подменён,SDK aizstāts
+Тип оборудования        : {},Aparatūras tips         : {}
+Точка доступа,Piekļuves punkts
+Традиционный китайский,Tradicionālā ķīniešu
+Транзисторов:      {:>3},Tranzistori:       {:>3}
+Требуется вручную разрешить синхронизацию времени через Интернет в настройках,Nepieciešams manuāli atļaut laika sinhronizāciju caur internetu iestatījumos
+Тёмная комната,Tumšā istaba
+Убрать из любимых,Noņemt no izlases
+Увеличить размер (в МБ),Palielināt izmēru (MB)
+"Уверены, что хотите продолжить?",Vai tiešām vēlaties turpināt?
+Удаление Wi-Fi профиля,Wi-Fi profila dzēšana
+Удаление Wi-Fi профиля...,Wi-Fi profila dzēšana...
+Удаление {} бекапа,Dzēš {} rez. kopiju
+Удаление {} бекапов,Dzēš {} rez. kopijas
+Удаление {} сохранений,Dzēš {} saglabājumus
+Удаление {} сохранения,Dzēš {} saglabājumus
+Удаление бекапов,Rez. kopiju dzēšana
+Удаление записи об игре...,Spēles ieraksta dzēšana...
+Удаление игр,Spēļu dzēšana
+Удаление игры ,Spēles dzēšana
+Удаление игры целиком: [{}],Visas spēles dzēšana: [{}]
+"SSID: {}, Пароль: {}","SSID: {}, Parole: {}"
+Удаление каталога LFS,LFS kataloga dzēšana
+Удаление контента,Satura dzēšana
+Удаление настроек родительского контроля...,Vecāku kontroles iestatījumu dzēšana...
+Удаление не удалось.\n\nНажмите любую кнопку для продолжения,"Dzēšana neizdevās.\n\nNospiediet jebkuru pogu, lai turpinātu"
+Удаление неиспользуемого {}...,Dzēš neizmantoto {}...
+Удаление плейсхолдера...,Vietas turētāja dzēšana...
+Удаление пользователя,Lietotāja dzēšana
+Удаление пользователя...,Lietotāja dzēšana...
+Удаление ранее установленных файлов...,Iepriekš instalēto failu dzēšana...
+Удаление родительского контроля,Vecāku kontroles dzēšana
+SaveFS очищена,SaveFS notīrīta
+Удаление связи с Nintendo account...,Nintendo account saites dzēšana...
+Удаление сохранений,Saglabājumu dzēšana
+Удаление сохранения целиком,Visu saglabājumu dzēšana
+Удаление старого     {}...,Dzēš veco     {}...
+Удаление старого файла {}...,Dzēš veco failu {}...
+Удаление старой записи об игре...,Dzēš veco spēles ierakstu...
+Удаление старой папки {}...,Dzēš veco mapi {}...
+Удаление тайтла: [{}],Nosaukuma dzēšana: [{}]
+Удаление тикетов ({}),Tiketu dzēšana ({})
+Удаление...,Dzēšana...
+TempC0               : {:04x},TempC0               : {:04x}
+Удалить,Dzēst
+Удалить LFS,Dzēst LFS
+Удалить сохранения,Dzēst saglabājumus
+Удалить старые бекапы,Dzēst vecās rez. kopijas
+Удаляется {} из {}...,Dzēš {} no {}...
+Удаляется {}...,Dzēš {}...
+Удаляется бекап ,Dzēš rez. kopiju
+Удаляется запись о контенте...,Dzēš satura ierakstu...
+Удаляется запись об игре...,Dzēš spēles ierakstu...
+Удаляется игра и весь связанный контент,Dzēš spēli un visu saistīto saturu
+Titlekey не может быть инициализирован,Titlekey nevar inicializēt
+Удаляется папка LFS...,Dzēš LFS mapi...
+Удаляется пустая папка,Dzēš tukšu mapi
+Удаляется сохранение {}...,Dzēš saglabājumu {}...
+Удаляется старая запись о контенте...,Dzēš veco satura ierakstu...
+Удаляется старый cnmt.nca...,Dzēš veco cnmt.nca...
+Удаляется тикет: {}...,Dzēš tiketu: {}...
+Удалять после установки: ,Dzēst pēc instalēšanas:
+Удаляются все объекты из альбома для игры,Dzēš visus albuma objektus spēlei
+Удаляются все сохранения для игры,Dzēš visus spēles saglabājumus
+Удаляются сохранения...,Dzēš saglabājumus...
+"UID: {}, Ник: {}","UID: {}, Niks: {}"
+Удалённые,Dzēstie
+Удачный экспорт,Veiksmīgs eksports
+Уделение старого тикета...,Dzēš veco tiketu...
+Упаковка каталога в RomFS,Kataloga pakošana RomFS
+Упрощенный китайский,Vienkāršotā ķīniešu
+Уровень заряда батареи         : {},Baterijas uzlādes līmenis      : {}
+Успешно разобран как PFS0 файл,Veiksmīgi analizēts kā PFS0 fails
+Устанавливается {},Instalē {}
+Установить как аватар...,Iestatīt kā avataru...
+Установка,Instalēšana
+URL для проверки обновлений,URL atjauninājumu pārbaudei
+Установка анлокера...,Atbloķētāja instalēšana...
+Установка завершена,Instalēšana pabeigta
+Установка игр (NAND),Spēļu instalēšana (NAND)
+Установка игр (SD Card),Spēļu instalēšana (SD)
+Установка игры завершена,Spēles instalēšana pabeigta
+Установка обновлений игр,Spēļu atjauninājumu instalēšana
+Установка прервана,Instalēšana pārtraukta
+Установка с картриджа,Instalēšana no kārtridža
+Установка тайтлов ({}/{}),Nosaukumu instalēšana ({}/{})
+Установка через DBIbackend,Instalēšana caur DBIbackend
+USB Соединение,USB Savienojums
+Установка ярлыка...,Saīsnes instalēšana...
+Установлен,Instalēts
+Установленные,Instalētie
+Установленные homebrew,Instalētie homebrew
+Установленные homebrew ({}),Instalētie homebrew ({})
+Установленные игры,Instalētās spēles
+Установленные тикеты,Instalētie tiketi
+Установленные тикеты ({}),Instalētie tiketi ({})
+Файл повреждён и не может быть установлен. Не найдена сигнатура HEAD,Fails bojāts un nevar tikt instalēts. Nav atrasts HEAD paraksts
+Файл повреждён и не может быть установлен. Не найдена сигнатура HFS0 в разделе root,Fails bojāts un nevar tikt instalēts. Nav atrasts HFS0 paraksts root sadaļā
+Wireless LAN MAC адрес: {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X},Wireless LAN MAC adrese: {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X}
+Файл повреждён и не может быть установлен. Не найдена сигнатура HFS0 в разделе secure,Fails bojāts un nevar tikt instalēts. Nav atrasts HFS0 paraksts secure sadaļā
+Файл повреждён и не может быть установлен. Не найдена сигнатура PFS0,Fails bojāts un nevar tikt instalēts. Nav atrasts PFS0 paraksts
+Файл слишком большой для хранилища,Fails pārāk liels krātuvei
+Файл: {},Fails: {}
+Фиксация ФС...,FS fiksēšana...
+Финальный размер: {},Galīgais izmērs: {}
+Формирование списка...,Saraksta veidošana...
+Форсированный язык    : {},Forsētā valoda        : {}
+Форсированный язык    : {} ({}),Forsētā valoda        : {} ({})
+  Автоопределение,Automātiska noteikšana
+Форсировано вклчение USB 3.0: {},Forsēta USB 3.0 ieslēgšana: {}
+Форсировать UTF-8,Forsēt UTF-8
+Форсировать язык,Forsēt valodu
+Французский,Franču
+"Х:{}, Т:{}, РЦ:{}","H:{}, T:{}, RC:{}"
+Хранилища MTP,MTP krātuves
+Хранилище только для чтения,Krātuve tikai lasīšanai
+Хэш версии              : {},Versijas jaukšana       : {}
+Целевая запись о контенте не найдена,Mērķa satura ieraksts nav atrasts
+ЧАСТЬ КОНТЕНТА ОТСУТСТВУЕТ. ИГРА НЕ БУДЕТ РАБОТАТЬ,TRŪKST SATURA DAĻAS. SPĒLE NESTRĀDĀS
+Число транзисторов: {:>3},Tranzistoru skaits: {:>3}
+Число уникальных сыграных игр : {},Unikālo spēlēto spēļu skaits  : {}
+Число ходов:        {:>3},Gājienu skaits:     {:>3}
+Читать дату файлов,Lasīt failu datumu
+Чтение каталога...,Kataloga lasīšana...
+Чтение списка файлов...,Failu saraksta lasīšana...
+Что-то плохое грядёт,Kaut kas slikts tuvojas
+Что-то пошло не так. Пропускаем оставшийся файл,Kaut kas nogāja greizi. Izlaižam atlikušo failu
+"Чтобы вернуться, нажмите B","Lai atgrieztos, nospiediet B"
+Шадок у Гиби,Šadoks pie Gibi
+Шифрование секции ,Sekcijas šifrēšana
+Экзосфера очищает CAL0      : {},Exosphere tīra CAL0         : {}
+Экран                 : ({:08X}) {},Ekrāns                : ({:08X}) {}
+Экспорт SDK,SDK eksports
+Экспортировать,Eksportēt
+Экспортировать SDK,Eksportēt SDK
+Это действие будет нельзя отменить,Šo darbību nevarēs atsaukt
+Язык                    : {},Valoda                  : {}
+Январь,Janvāris
+Японский,Japāņu
+Ярлык   : ,Saīsne  :
+Ярлык для DBI,DBI saīsne
+"больше шансов, что оно заработает». Их","vairāk izredžu, ka tas strādās». To"
+быстро проникли в планы шадоков и,ātri iekļuva šadoku plānos un
+"всякий раз, когда растение расцветает","katru reizi, kad augs uzzied"
+"выражениях: «Чем больше неудач, тем","izteicienos: «Jo vairāk neveiksmju,"
+"вычислили, что у них есть по крайней","aprēķināja, ka viņiem ir vismaz"
+да,jā
+заработает… И они торопятся поскорее,strādās... Un viņi steidzas drīzāk
+"и дает транзистор, они мчатся, чтобы","un dod tranzistoru, viņi steidzas,"
+"и не кончилось успехом». Или, в других",un nebeidzās ar panākumiem». Vai citos
+"мере один шанс из миллиона, что она","viena iespēja no miljona, ka tā"
+миллионная заработает».,miljonā nostrādās».
+не является LFS папкой,nav LFS mape
+не является LFS папкой игры,nav spēles LFS mape
+нет,nē
+"ничего, что бы непрерывно продолжалось","nekas, kas nepārtraukti turpinātos"
+"но окружили его со всех сторон, и","bet ielenca viņu no visām pusēm, un"
+"опытов, чтобы быть уверенными, что","eksperimentu, lai būtu pārliecināti"
+осуществить 999999 первых неудачных,veikt 999999 pirmos neveiksmīgos
+"очень умные благодаря своим шляпам,","ļoti gudri, pateicoties cepurēm,"
+"планету гиби искать транзисторы. Гиби,","Gibi planētu meklēt tranzistorus. Gibi,"
+постоянно кончаясь неудачами.,pastāvīgi beidzoties ar neveiksmēm.
+принципов шадокской логики: «Нет,šadoku loģikas principu: «Nav
+"ракета еще несовершенна, но они","raķete vēl nav pilnīga, bet viņi"
+"растений, произрастающих на огородах.","augu, kas aug dārzos."
+решили позабавиться. Они позволили,nolēma izklaidēties. Viņi ļāva
+"ZL/ZR - смена даты, Y - период","ZL/ZR - mainīt datumu, Y - periods"
+собрать урожай прежде шадока.,novākt ražu pirms šadoka.
+"терпят неудачу потому, что не хватает","cieš neveiksmi, jo trūkst"
+транзисторов в системах безопасности.,tranzistoru drošības sistēmās.
+"шадоку забраться в один из их огородов,","šadokam iekļūt vienā no viņu dārziem,"
+"Получено: {}, (скорость не определена)","Saņemts: {}, (ātrums nav noteikts)"
+Игры добавлены в список исключений,Spēles pievienotas izņēmumu sarakstam
+Новых игр в список исключений добавлено не было,Jaunas spēles izņēmumu sarakstam netika pievienotas
+"Интервал автобекапа сейвов, дни",Auto-saglabāšanas intervāls (dienas)
+Просмотр МТР устройства [{}],MTP ierīces apskate [{}]
+Просмотр USB диска [{}],USB diska apskate [{}]
+Заряд батареи (сырое значение) : {},Baterijas uzlāde (neapstr.)    : {}
+ru,lv
+Конфигурация зарядки            : {},Uzlādes konfigurācija           : {}
+Режим Hi-Z включён              : {},Hi-Z režīms ieslēgts            : {}
+Зарядка батареи включена        : {},Baterijas uzlāde ieslēgta       : {}
+Маршрут электропитания          : {},Barošanas maršruts              : {}
+Напряжение источника            : {} mV,Avota spriegums                 : {} mV
+Ток источника                   : {} mA,Avota strāva                    : {} mA
+Быстрая зарядка разрешена       : {},Ātrā uzlāde atļauta             : {}
+[CRC ОШИБКА ФАЙЛА],[CRC FAILA KĻŪDA]
+Целевая прошивка            : {}.{}.{},Mērķa programmaparatūra     : {}.{}.{}
+Поддерживаемая версия HOS   : {},Atbalstītā HOS versija      : {}
+Будет скачана и установлена прошивка системы из файла {}.\n\nНажимте (+) для продолжения\nЛюбую другую кнопку для отмены,"Tiks lejupielādēta un instalēta sistēmas programmaparatūra no faila {}.\n\nNospiediet (+) lai turpinātu\nJebkuru citu pogu, lai atceltu"
+Распаковка архива не удалась,Arhīva atpakošana neizdevās
+Сканирование архива не удалось,Arhīva skenēšana neizdevās
+Установить все обновления из этой папки,Instalēt visus atjauninājumus no šīs mapes
+Япония,Japāna
+Русский,Krievu
+Февраль,Februāris
+Октябрь,Oktobris
+[HASH MISMATCH: GC ➡ eShop],[HASH MISMATCH: GC ➡ eShop]
+Ноябрь,Novembris
+ {} минут,{} minūtes
+Игрок,Spēlēt.
+Время,Laiks
+Язык    : ,Valoda  :
+Контент,Saturs
+[HASH: OK],[HASH: OK]
+Красная,Sarkana
+Путь    : ,Ceļš    :
+  Жак Руксель. Великолепие навыворот.,Žaks Ruksels. Les Shadoks.
+[HASH MISMATCH: Неисправимо],[HASH MISMATCH: Nelabojams]
+[ПРЕД],[BRĪD]
+Альбом,Albums
+Выход,Iziet
+и т.д...,u.t.t...
+{} бекап,{} rez. kop.
+874,874
+Пишется тело: {}/{}MB \r,Raksta saturu: {}/{}MB \r
+Пишется скриншот\n,Raksta ekrānuzņēmumu\n
+Пишется таблица хешей\n,Raksta hash tabulu\n
+Пишется подпись видео\n,Tiek rakstīts video paraksts\n
+Операция завершена\n,Operācija pabeigta\n
+Предел входного тока (буст)     : {} mA,Ieejas strāvas limits (boost)   : {} mA
+Предел тока быстрой зарядки     : {} mA,Ātrās uzlādes strāvas limits    : {} mA
+Напряжение батареи              : {} mV,Baterijas spriegums             : {} mV
+Контроллер источника получен    : {},Avota kontrolieris saņemts      : {}
+OTG Запрошен                    : {},OTG pieprasīts                  : {}
+"Будет скачана и установлена прошивка системы из файла {}.\n\nВНИМАНИЕ!!! Похоже, эта версия не поддерживается текущей атмосферой.\n\nНажимте (+) для продолжения\nЛюбую другую кнопку для отмены","Tiks lejupielādēta un instalēta sistēmas programmaparatūra no faila {}.\n\nUZMANĪBU!!! Šķiet, ka pašreizējā Atmosphere neatbalsta šo versiju.\n\nNospiediet (+) lai turpinātu\nJebkuru citu pogu, lai atceltu"
+Копирование файла не удалось,Faila kopēšana neizdevās
+Daybreak.nro не найден,Daybreak.nro nav atrasts
+Изображение добавлено в альбом,Attēls pievienots albumam
+Ошибка добавления изобржения в альбом: {},"Kļūda, pievienojot attēlu albumam: {}"
+Добавить в альбом,Pievienot albumam
+Анализ mp4 файла,mp4 faila analīze
+Длительность: {},Ilgums: {}
+ОШИБКА! Файл не содержит один видео трек,KĻŪDA! Fails nesatur vienu video celiņu
+ОШИБКА! Файл не содержит один аудио трек,KĻŪDA! Fails nesatur vienu audio celiņu
+ОШИБКА! У видео трека неподдерживаемый кодек,KĻŪDA! Video celiņam ir neatbalstīts kodeks
+ОШИБКА! У аудио трека неподдерживаемый кодек,KĻŪDA! Audio celiņam ir neatbalstīts kodeks
+ОШИБКА! Аудио трек не стерео,KĻŪDA! Audio celiņš nav stereo
+[{}] Общий тикет для {},[{}] Kopīgs tikets priekš {}
+ОШИБКА! У аудио трека неподходящая частота дискретизации,KĻŪDA! Audio celiņam ir neatbilstoša diskretizācijas frekvence
+ОШИБКА! У видео трека неподходящая ширина,KĻŪDA! Video celiņam ir neatbilstošs platums
+ОШИБКА! У видео трека неподходящая высота,KĻŪDA! Video celiņam ir neatbilstošs augstums
+ВНИМАНИЕ! Возможно видео поток содержит B-Frames. Файл может не воспроизводиться,UZMANĪBU! Video straume var saturēt B-Frames. Fails var netikt atskaņots
+"Похоже, это не MP4 файл","Šķiet, tas nav MP4 fails"
+Открыть как RomFS,Atvērt kā RomFS
+\x1b[31;1mГ\x1b[37;1m,\x1b[31;1mГ\x1b[37;1m
+\x1b[32;1mШ\x1b[37;1m,\x1b[32;1mШ\x1b[37;1m
+Ваша SD карта является подделкой. Рекомендуется заменить SD карту на проверенную.,Jūsu SD karte ir viltojums. Ieteicams nomainīt SD karti pret pārbaudītu.
+[{}] Персональный тикет для {},[{}] Personīgais tikets priekš {}
+Кажется ваша SD карта является подделкой.\n\nВозможны проблемы с установкой игр.\nВ этом случае рекомендуется заменить SD карту на проверенную.,"Šķiet, ka jūsu SD karte ir viltojums.\n\nVar rasties problēmas ar spēļu instalēšanu.\nŠādā gadījumā ieteicams nomainīt SD karti pret pārbaudītu."
+Информация о SD карте,SD kartes informācija
+Производитель    : {:s} ({:02X}),Ražotājs    : {:s} ({:02X})
+OEM ID           : {:s} ({:s}),OEM ID           : {:s} ({:s})
+Имя продукта     : {:s},Produkta nosauk. : {:s}
+Ревизия продукта : {:s},Produkta revīzija : {:s}
+Серийный номер   : {:s},Sērijas numurs   : {:s}
+[ПОДПИСЬ: DBI],[PARAKSTS: DBI]
+.    Время игры    \x1b[32;1m{:02}:{:02}:{:02}\x1b[37;1m,.    Spēles laiks    [32;1m{:02}:{:02}:{:02}[37;1m
+"ZL/ZR смена даты, Y период, X сортировка, (+) выбрать пользователя","ZL/ZR mainīt datumu, Y periods, X kārtošana, (+) atlasīt lietotāju"
+[{}МБ] {}МБ из {}МБ ({:.2f} МБ/сек)\x1b[0K\r,[{}MB] {}MB no {}MB ({:.2f} MB/s)\x1b[0K\r
+"X выбор, Y обратить выбор, (+) меню, R3 сортировка, L3 запуск","X izvēlēties, Y invertēt izvēli, (+) izvēlne, R3 kārtot, L3 palaist"
+Создать все известные ({}),Izveidot visus zināmos ({})
+"X выбор, Y обратить выбор, (+) меню, L3 запуск","X atlasīt, Y apgriezt atlasi, (+) izvēlne, L3 palaist"
+"DPAD или стики для перемещения, (+) Настройки","DPAD vai sviras pārvietošanai, (+) Iestatījumi"
+Просмотр HTTP/FTP/Github сервера...,HTTP/FTP/Github servera skatīšana...
+"X выбор, Y обратить выбор, (+) меню, R3 сортировка","X izvēle, Y apvērst izvēli, (+) izvēlne, R3 kārtošana"
+"X выбор, Y обр. выбор, (+) меню","X izvēle, Y pretēja izvēle, (+) izvēlne"
+"X выбор, Y обратить выбор, A открыть, (-) 2ая панель, (+) меню","X atlasīt, Y invertēt atlasi, A atvērt, (-) 2. panelis, (+) izvēlne"
+"X выбор, Y обр. выбор, ⬅/➡ смена панели, (-) закрыть, (+) меню","X izvēle, Y pretēja izvēle, ⬅/➡ mainīt paneli, (-) aizvērt, (+) izvēlne"
+[ДЕЛЬТА ФРАГМЕНТ НЕ НУЖЕН],[DELTA FRAGMENTS NAV VAJADZĪGS]
+[КОНТЕНТ ОТСУТСТВУЕТ],[SATURS NAV ATRASTS]
+[НЕ СОЗДАТЬ ПЛЕЙСХОЛДЕР],[NEVAR IZVEIDOT VIETAS TURĒTĀJU]
+[НЕДОСТАТОЧНО МЕСТА],[NEPIETIEK VIETAS]
+  Кодировка...,Kodējums...
+[НЕИЗВЕСТНОЕ СЖАТИЕ],[NEZINĀMA KOMPRESIJA]
+[ОТСУТСТВУЕТ],[NAV ATRASTS]
+[ОШБК],[KĻŪDA]
+[ОШИБКА NCA MAGIC],[NCA MAGIC KĻŪDA]
+[ОШИБКА ЗАПИСИ В ПЛЕЙСХОЛДЕР],[VIETAS TURĒTĀJA RAKSTĪŠANAS KĻŪDA]
+[ОШИБКА РАСПАКОВКИ ZSTD: {}],[ZSTD ATPAK. KĻŪDA: {}]
+[ОШИБКА РАСПАКОВКИ],[ATPAKOŠANAS KĻŪDA]
+[ОШИБКА],[KĻŪDA]
+[ОШИБКА] Отсутствует URL списка обновлений,[KĻŪDA] Nav atjauninājumu saraksta URL
+[ПЕРЕДАЧА OK],[PĀRSŪTĪŠANA OK]
+  Применить,Pielietot
+[ПЕРЕДАЧА ПРЕРВАНА],[PĀRSŪTĪŠANA PĀRTRAUKTA]
+[ПОВРЕЖДЁННЫЙ NCA],[BOJĀTS NCA]
+[ПОДПИСЬ: OK],[PARAKSTS: OK]
+[ПОДПИСЬ: XCI➡NSP],[PARAKSTS: XCI➡NSP]
+[ПОДПИСЬ: Поддельная],[PARAKSTS: Viltots]
+[СТАРАЯ ПРОШИВКА],[VECA APARĀTPROGRAMMATŪRA]
+[ТРЕБУЕТСЯ РЕЖИМ ТАЙТЛА],[NEPIECIEŠAMS TITLE REŽĪMS]
+[ФАЙЛ ПОВРЕЖДЁН],[FAILS BOJĀTS]
+[ХЕШ ИСПРАВЛЕН],[JAUKŠANA IZLABOTA]
+  Редактирование,Rediģēšana
+[ХЕШ НЕ СОВПАДАЕТ],[JAUKŠANA NESAKRĪT]
+\nНачало обработки dlc {}: {:016X},\nSākta dlc apstrāde {}: {:016X}
+\nНачало обработки программы {},\nSākta programmas apstrāde {}
+\nНачало создания Data.nca,\nSākta Data.nca izveide
+\nНачало создания Meta.nca,\nSākta Meta.nca izveide
+\nОшибка USB обмена,\nUSB apmaiņas kļūda
+\nСборка PFS0,\nPFS0 montāža
+\nСборка RomFS,\nRomFS montāža
+\nСекция 0,\nSekcija 0
+\nСекция 1,\nSekcija 1
+ (по времени игры),(pēc spēles laika)
+\nСекция 2,\nSekcija 2
+\nСоздан NSP: {},\nIzveidots NSP: {}
+\nШифрование NCA,\nNCA šifrēšana
+{:04d} {} {:02d}. Всего: {} час,{:04d} {} {:02d}. Kopā: {} st.
+{:04d} {} {:02d}. Всего: {} часа,{:04d} {} {:02d}. Kopā: {} st.
+{:04d} {} {:02d}. Всего: {} часов,{:04d} {} {:02d}. Kopā: {} st.
+{:4d} {}. Всего: {} час,{:4d} {}. Kopā: {} st.
+{:4d} {}. Всего: {} часа,{:4d} {}. Kopā: {} st.
+{:4d} {}. Всего: {} часов,{:4d} {}. Kopā: {} st.
+ (по названию игры),(pēc spēles nosaukuma)
+{:4d}. Всего: {} час,{:4d}. Kopā: {} st.
+{:4d}. Всего: {} часа,{:4d}. Kopā: {} st.
+{:4d}. Всего: {} часов,{:4d}. Kopā: {} st.
+{:>3} {}{:<50}\x1b[37;1m {:>10},{:>3} {}{:<50}\x1b[37;1m {:>10}
+{:>6} объектов обработано. {:>5} записей найдено...\r,{:>6} objekti apstrādāti. {:>5} ieraksti atrasti...\r
+{:>6}/{}kB уже скачано...\r,{:>6}/{}kB jau lejupielādēts...\r
+{} cохранение,{} saglabājums
+{} cохранений,{} saglabājumi
+{} cохранения,{} saglabājumi
+ (по числу запусков),(pēc palaišanu skaita)
+{} бекапа,{} rez. kop.
+{} бекапов,{} rez. kop.
+{} записей ({}),{} ieraksti ({})
+{} записи ({}),{} ieraksti ({})
+{} запись ({}),{} ieraksts ({})
+{} игр ({}),{} spēl. ({})
+{} игра ({}),{} spēle ({})
+{} игры ({}),{} spēles ({})
+{} сохранение,{} saglabājums
+{} сохранений,{} saglabājumi
+{} сохранения,{} saglabājumi
+{} тикет,{} tikets
+{} тикета,{} tiketi
+{} тикетов,{} tiketi
+{}-{} FW:{}{} SDK:{},{}-{} FW:{}{} SDK:{}
+"{}/{} MB (Ср: {:.1f} MB/sec, Тек: {:.1f} MB/sec) Ост. {:02d}:{:02d}      \r","{}/{} MB (Vid: {:.1f} MB/s, Paš: {:.1f} MB/s) Atl. {:02d}:{:02d}      \r"
+"{}/{} МБ, {:.2f} МБ/сек","{}/{} MB, {:.2f} MB/s"
+{}: {} потерянная запись,{}: {} zaudēts ieraksts
+{}: {} потерянных записей,{}: {} zaudēti ieraksti
+{}: {} потерянных записи,{}: {} zaudēti ieraksti
+     {:<10} Шифрование: {} Размер установки: {}{:>10},{:<10} Šifrēšana: {} Instal. izmērs: {}{:>10}
+ [НЕ МОГУ ОТКРЫТЬ ФАЙЛ],[NEVAR ATVĒRT FAILU]
+{}: {}/{} ({:.2f} МБ/сек),{}: {}/{} ({:.2f} MB/s)
+{}: {}/{} ({}%) ({:.2f} МБ/сек),{}: {}/{} ({}%) ({:.2f} MB/s)
+{}: пропускается {}/{} ({:.2f} МБ/сек),{}: izlaists {}/{} ({:.2f} MB/s)
+"{}\n\nВосстановление бекапа не удалось\n\nНажмите A - прервать, другая кнопка - продолжить","{}\n\nRez. kopijas atjaunošana neizdevās\n\nNospiediet A - pārtraukt, cita poga - turpināt"
+{}МБ из {}МБ ({:.2f} МБ/сек)\x1b[0K\r,{}MB no {}MB ({:.2f} MB/s)\x1b[0K\r
+«У шадоков ситуация удовлетворительна.,«Šadokiem situācija ir apmierinoša.
+Ёмкость с завода   : {} mAh,Rūpnīcas ietilpība : {} mAh
+АВТО,AUTO
+Аватар установлен,Avatars iestatīts
+Август,Augusts
+Австралия,Austrālija
+Автозапуск FTP: ,FTP autom. palaišana:
+Автозапуск MTP,MTP autom. palaišana
+Автозапуск списка homebrew,Homebrew saraksta autom. palaišana
+Автоповтор кнопок при удержании,Pogu automātiskā atkārtošana
+Автор   : ,Autors  :
+Агрументы для ярлыка,Argumenti saīsnei
+Адрес FTP сервера: {},FTP servera adrese: {}
+Адрес HTTP сервера: {},HTTP servera adrese: {}
+ {:>5} часа,{:>5} st.
+Альбом (0°),Albums (0°)
+Американский английский,Amerikāņu angļu
+Апрель,Aprīlis
+База этой игры не самодостаточна. Не забудьте установить обновление,Šīs spēles bāze nav pilnīga. Neaizmirstiet instalēt atjauninājumu
+Базовое хранилище: ,Bāzes krātuve:
+Бекапы,Rez. kopijas
+Бекапы сохранений ({}),Saglabājumu rez. kopijas ({})
+Британский английский,Britu angļu
+ {:>5} часов,{:>5} st.
+В альбоме найден {} объект,Albumā atrasts {} objekts
+В альбоме найдено {} объекта,Albumā atrasti {} objekti
+В альбоме найдено {} объектов,Albumā atrasti {} objekti
+В альбоме отсутствуют объекты,Albumā nav objektu
+В файле /switch/prod.keys отсутствуют необходимые ключи.\n\nЧасть функций программы будет недоступна.\n\nПерегрузитесь в Hekate и используйте Lockpick_RCM.bin пейлоад\nдля дампа ключей из SysNAND.,Failā /switch/prod.keys trūkst atslēgu.\n\nDaļa funkciju nebūs pieejama.\n\nPārstartējiet uz Hekate un izmantojiet Lockpick_RCM.bin\natslēgu izgūšanai no SysNAND.
+ВНИМАНИЕ ,UZMANĪBU
+ВНИМАНИЕ! ,UZMANĪBU!
+ВНИМАНИЕ! Тайтл {:016X} не установлен,UZMANĪBU! {:016X} nav instalēts
+ВНИМАНИЕ! Установленная версия ({}) не совпадает с желаемой ({}),UZMANĪBU! Instalētā versija ({}) neatbilst vēlamajai ({})
+ВО ВРЕМЯ ПЕРЕДАЧИ ФАЙЛА НАЙДЕНЫ ОШИБКИ. УСТАНОВКА ПРЕРВАНА,FAILA PĀRSŪTĪŠANAS LAIKĀ ATRASTAS KĻŪDAS. INSTALĒŠANA PĀRTRAUKTA
+ {} в чёрном списке.,{} melnajā sarakstā.
+Введите URL сервера (HTTP или (S)FTP),Ievadiet servera URL (HTTP vai (S)FTP)
+Введите агрументы для ярлыка или оставьте пустым,Ievadiet saīsnes argumentus vai atstājiet tukšu
+Введите желаемый номер страницы,Ievadiet vēlamo lapas numuru
+Введите новое имя,Ievadiet jaunu vārdu
+Введите новое имя каталога,Ievadiet jaunu kataloga vārdu
+Введите новое имя файла,Ievadiet jaunu faila vārdu
+Введите номер DLC,Ievadiet DLC numuru
+Версия  : ,Versija :
+Версия {} [v{}],Versija {} [v{}]
+Версия атмосферы            : {}.{}.{},Atmosphere versija          : {}.{}.{}
+Версия прошивки         : {}.{}.{}-{}.{},Sistēmas versija        : {}.{}.{}-{}.{}
+Вместо пользователя {} использовать:,Lietotāja {} vietā izmantot:
+Внимание! ,Uzmanību!
+Внимание!\nНекоторые файлы были заблокированы и поэтому пропущены.,Uzmanību!\nDaži faili tika bloķēti un tāpēc izlaisti.
+Во время разбора\n\n{}\n\nвозникла следующая ошибка:\n\n{},Analīzes laikā\n\n{}\n\nradās kļūda:\n\n{}
+Во время установки тикетов были ошибки. Проверьте наличие ES сигпатчей,"Instalējot tiketus, radās kļūdas. Pārbaudiet ES sigpatches"
+Во время экспорта были ошибки,Eksportēšanas laikā radās kļūdas
+Возраст батареи                 : {}%,Baterijas vecums                : {}%
+Возраст батареи                : {},Baterijas vecums               : {}
+Возраст батареи                : {}%,Baterijas vecums               : {}%
+ {} минута,{} minūte
+Возрастной рейтинг,Vecuma reitings
+Восстановить,Atjaunot
+Восстановить бекап...,Atjaunot rez. kopiju...
+Восстановить для...,Atjaunot priekš...
+Восстановить как бекап сохранения,Atjaunot kā saglabājuma rez. kopiju
+Восстановление бекапа,Rez. kopijas atjaunošana
+Восстановление не удалось,Atjaunošana neizdevās
+Восстановление успешно,Atjaunošana veiksmīga
+Восстановление: {},Atjaunošana: {}
+ {} минуты,{} minūtes
+Время гашения экрана в секундах,Ekrāna izslēgšanas laiks sekundēs
+Время игры: {:02}:{:02}:{:02},Spēles laiks: {:02}:{:02}:{:02}
+Время передачи {:d}:{:02d}:{:02d},Pārsūtīšanas laiks {:d}:{:02d}:{:02d}
+Все игровые сессии,Visas spēļu sesijas
+Все игроки,Visi spēlētāji
+Все объекты,Visi objekti
+Все файлы в порядке,Visi faili kārtībā
+Всего {} байт получен,Kopā saņemti {} baiti
+Всего {} байт послан,Kopā nosūtīti {} baiti
+Всего {} байта получено,Kopā saņemti {} baiti
+ Да,Jā
+Всего {} байта послано,Kopā nosūtīti {} baiti
+Всего {} байтов получено,Kopā saņemti {} baiti
+Всего {} байтов послано,Kopā nosūtīti {} baiti
+Всего записей: {},Kopā ierakstu: {}
+Всего освобождено места : ,Atbrīvota vieta :
+Всего отослано: {} ({}/сек),Kopā nosūtīts: {} ({}/s)
+Всего программ: {},Kopā programmu: {}
+Вставить,Ielīmēt
+Вставка...,Ielīmēšana...
+Всё время. Всего: {} час,Visu laiku. Kopā: {} st.
+ Да ,Jā
+Всё время. Всего: {} часа,Visu laiku. Kopā: {} st.
+Всё время. Всего: {} часов,Visu laiku. Kopā: {} st.
+Вы собираетесь удалить следующие бекапы:,Jūs gatavojaties dzēst šīs rez. kopijas:
+Вы собираетесь удалить следующие игры:,Jūs gatavojaties dzēst šīs spēles:
+Вы собираетесь удалить следующие сохранения:,Jūs gatavojaties dzēst šos saglabājumus:
+Вы собираетесь удалить следующие тикеты:,Jūs gatavojaties dzēst šos tiketus:
+Вы уверены в удалении {} записей?\n\n(+) - ДА   B - Отмена,Vai tiešām dzēst {} ierakstus?\n\n(+) - JĀ   B - Atcelt
+Вы уверены в удалении {} записи?\n\n(+) - ДА   B - Отмена,Vai tiešām dzēst {} ierakstu?\n\n(+) - JĀ   B - Atcelt
+Вы уверены в удалении {} объекта?\n\n(+) - ДА   B - Отмена,Vai tiešām dzēst {} objektu?\n\n(+) - JĀ   B - Atcelt
+Вы уверены в удалении {} объектов?\n\n(+) - ДА   B - Отмена,Vai tiešām dzēst {} objektus?\n\n(+) - JĀ   B - Atcelt
+    {:>2} сек,{:>2} sek
+ Закрытие игры,Spēles aizvēršana
+"Вы уверены, что хотите удалить {}?\n\n(+) - ДА, другая кнопка - НЕТ","Vai tiešām vēlaties dzēst {}?\n\n(+) - JĀ, cita poga - NĒ"
+"Вы уверены, что хотите удалить\n{}?\n\n(+) - ДА  В - Отмена",Vai tiešām vēlaties dzēst\n{}?\n\n(+) - JĀ  B - Atcelt
+Выберите пользователя,Izvēlieties lietotāju
+Выберите тип сохранения,Izvēlieties saglabāšanas tipu
+Выбрать все файлы игры,Izvēlēties visus spēles failus
+Выбрать того же пользователя,Izvēlēties to pašu lietotāju
+Выбрать ту же игру,Izvēlēties to pašu spēli
+Выйти из DBI           : ,Iziet no DBI           :
+Выключать экран,Izslēgt ekrānu
+Выключить экран        : ,Izslēgt ekrānu        :
+ Запуск игры,Spēles palaišana
+Вырезать,Izgriezt
+Выход на рабочий стол,Iziet uz darbvirsmu
+Вычисление хэша,Jaukšanas aprēķins
+Вычисленное время конца : {},Aprēķinātais beigu laiks: {}
+Вычисленное время начала: {},Aprēķinātais sākuma laiks: {}
+Генерация DLC [{:016X}][v{}],DLC ģenerēšana [{:016X}][v{}]
+Генерация DLC анлокера...,DLC atbloķētāja ģenerēšana...
+Генерируется анлокер для {:016X} с номером {} и версией {}...,Ģenerē atbloķētāju {:016X} ar nr. {} un versiju {}...
+Генерируется ярлык для пути '{}' и аргументов '{}'...,Ģenerē saīsni ceļam '{}' un argumentiem '{}'...
+ Логаут пользователя \x1b[36;1m{}\x1b[37;1m,Lietotāja izrakstīšanās \x1b[36;1m{}\x1b[37;1m
+Главное меню,Galvenā izvēlne
+Голландский,Holandiešu
+Да,Jā
+"Да, я уверен","Jā, esmu drošs"
+Дамп анлокера в '{}'...,Atbloķētāja dumps uz '{}'...
+Дамп текущей прошивки,Pašreizējās sistēmas dumps
+Дамп ярлыка в '{}'...,Saīsnes dumps uz '{}'...
+Дата первого игрового события : {},Pirmā spēles notikuma datums: {}
+Действия с файлами,Darbības ar failiem
+Действия с файлами ({}),Darbības ar failiem ({})
+ Логин пользователя \x1b[36;1m{}\x1b[37;1m,Lietotāja pieteikšanās \x1b[36;1m{}\x1b[37;1m
+Декабрь,Decembris
+День,Diena
+Диаграмма активности,Aktivitātes diagramma
+Для бекапов,Rez. kopijām
+Для выхода нажмите любую кнопку,"Lai izietu, nospiediet jebkuru pogu"
+Для дампов,Dump-iem
+Для логов,Žurnāliem
+Добавить в любимые,Pievienot izlasei
+Добавлять суффикс к имени файла,Pievienot sufiksu faila vārdam
+Достаточное питание            : {},Pietiekama barošana            : {}
+ Переключение на игру,Pārslēgšanās uz spēli
+Европа,Eiropa
+Есть исправление RCM бага   : {},Ir RCM kļūdas labojums      : {}
+"Есть несохранёные изменения.\nВы хотите их сохранить?\n\n(+) - Да, сохранить\n\n(-) - Выйти без сохранения\n\nДругая кнопка - Отмена","Ir nesaglabātas izmaiņas.\nVai vēlaties tās saglabāt?\n\n(+) - Jā, saglabāt\n\n(-) - Iziet bez saglabāšanas\n\nCita poga - Atcelt"
+Желаемая версия: {},Vēlamā versija: {}
+Журнал активности,Aktivitātes žurnāls
+Журналирование действий,Darbību reģistrēšana
+Завершено,Pabeigts
+Загружается список обновлений...,Ielādē atjauninājumu sarakstu...
+Загружено ,Ielādēts
+Загрузка изображения...,Attēla ielāde...
+ Режим работы изменился: {},Darbības režīms mainīts: {}
+Загрузка текста...{}%,Teksta ielāde...{}%
+Загрузка файла... {}%,Faila ielāde... {}%
+Задать размер файла {} не удалось: {},Neizdevās iestatīt faila {} izmēru: {}
+Закладки на SD,Grāmatzīmes uz SD
+Закончено за {:02d}:{:02d}:{:02d},Pabeigts {:02d}:{:02d}:{:02d}
+Закончилась память при посылке ответа,"Pietrūka atmiņas, sūtot atbildi"
+Закончились дополнительные буферы. Скорость записи на носитель слишком низка,Beidzās papildu buferi. Ierakstīšanas ātrums datu nesējā ir pārāk zems
+Закрытие соединения,Savienojuma aizvēršana
+Закрытие соединения к {}:{},Aizver savienojumu ar {}:{}
+ Сброс системных часов,Sistēmas pulksteņa atiestate
+Запаковать LFS в romfs.bin,Sapakot LFS iekš romfs.bin
+Запаковать в romfs.bin,Sapakot iekš romfs.bin
+Запаковка папки в RomFS,Mapes pakošana RomFS
+Записанное время конца  : {},Ierakstītais beigu laiks: {}
+Записанное время начала : {},Ierakstītais sākuma laiks: {}
+Запись в CAL0 разрешена     : {},Ierakstīšana CAL0 atļauta   : {}
+Запись в файл...,Ierakstīšana failā...
+Запись за пределами файла,Ierakstīšana ārpus faila
+Заполнение нулями,Aizpildīšana ar nullēm
+Заполнить свободное место на SD нулями,Aizpildīt brīvo vietu SD ar nullēm
+ Сворачивание игры,Spēles minimizēšana
+Запрет захвата видео,Video tveršanas aizliegums
+Запрет скриншотов,Ekrānuzņēmumu aizliegums
+Запрещено,Aizliegts
+Запрос на удаление ,Dzēšanas pieprasījums
+Запускавшиеся игры,Palaistās spēles
+Запускать точку доступа,Palaist piekļuves punktu
+Запустить FTP сервер,Palaist FTP serveri
+Запустить FTP сервер...,Palaist FTP serveri...
+Запустить HTTP сервер,Palaist HTTP serveri
+Запустить HTTP сервер...,Palaist HTTP serveri...
+ Состояние электропитания изменилось: {},Barošanas stāvoklis mainīts: {}
+Запустить МТР соединение,Palaist MTP savienojumu
+Запустить случайную игру,Palaist nejaušu spēli
+Заряд батареи                  : {},Baterijas uzlāde               : {}
+Заряд батареи                  : {}%,Baterijas uzlāde               : {}%
+Заряд батареи (сырое значение) : {}%,Baterijas uzlāde (neapstr.)    : {}%
+Зарядка батареи                : {},Baterijas lādēšana             : {}
+Здесь пусто,Šeit ir tukšs
+Игра анонсирует SDK {},Spēle izziņo SDK {}
+" и {} новое DLC,","un {} jauns DLC,"
+"Игра анонсирует более новый SDK ({}), чем текущая прошивка ({})",Spēle izziņo jaunāku SDK ({}) nekā pašreizējā sistēma ({})
+Игра использует titleId от дополнения,Spēle izmanto titleId no papildinājuma
+Игра использует titleId от обновления,Spēle izmanto titleId no atjauninājuma
+Извлечь в LFS,Izvilkt uz LFS
+Изменение размера сохранения на {} [{}]...,Maina saglabājuma izmēru uz {} [{}]...
+Изменить версию DLC (десятичную),Mainīt DLC versiju (decimālo)
+Изменить номер DLC (десятичный),Mainīt DLC numuru (decimālo)
+Изменить номер DLC (шестнадцатеричный),Mainīt DLC numuru (heksadecimālo)
+Изменён размер SaveFS,Mainīts SaveFS izmērs
+"    Великий колдун сказал, что ракеты","Lielais burvis teica, ka raķetes"
+" и {} новых DLC,","un {} jauni DLC,"
+Импорт исправленного тикета...,Labota tiketa imports...
+Импорт тикета...,Tiketa imports...
+Имя     : ,Vārds   :
+"Имя каталога\n'{}'\nсодержит недопустимые символы.\nОн не может быть создан.\n\nНажмите A - прервать, B - пропустить, X - переименовать","Kataloga vārds\n'{}'\nsatur neatļautas rakstzīmes.\nTo nevar izveidot.\n\nNospiediet A - pārtraukt, B - izlaist, X - pārdēvēt"
+"Имя файла\n'{}'\nсодержит недопустимые символы.\nОн не может быть создан.\n\nНажмите A - прервать, B - пропустить, X - переименовать","Faila vārds\n'{}'\nsatur neatļautas rakstzīmes.\nTo nevar izveidot.\n\nNospiediet A - pārtraukt, B - izlaist, X - pārdēvēt"
+Инсталлируется romfs.bin,Instalē romfs.bin
+Инструменты,Rīki
+Информация о зарядке батареи,Baterijas uzlādes informācija
+Информация о контенте,Satura informācija
+Информация о контенте ({}),Satura informācija ({})
+ сортировка по дате создания,kārtot pēc izveides datuma
+Информация о прошивке,Sistēmas informācija
+Информация о системе,Sistēmas informācija
+Информация о сохранении,Saglabājuma informācija
+Информация о сохранении...,Saglabājuma informācija...
+Информация о тикете,Tiketa informācija
+Информация о тикете...,Tiketa informācija...
+Информация об NSP,NSP informācija
+Информация об атмосфере,Atmosphere informācija
+Информация об игровой активности,Spēles aktivitātes informācija
+Информация об источние питания,Barošanas avota informācija
+ сортировка по имени,kārtot pēc vārda
+Информация об оборудовании,Aparatūras informācija
+Информация...,Informācija...
+Испанский,Spāņu
+Использовано дополнительной памяти: {}. Создано буферов: {},Izmantota papildu atmiņa: {}. Izveidoti buferi: {}
+Использовать 5 GHz,Izmantot 5 GHz
+Использовать MSG_WAITALL в recv,Izmantot MSG_WAITALL iekš recv
+Использовать для неё TitleID,Izmantot tai TitleID
+Использовать папку для...,Izmantot mapi priekš...
+Использовать разгон,Izmantot virstaktēšanu
+Использовать скрытый SSID,Izmantot slēptu SSID
+ сортировка по имени игры,kārtot pēc spēles nosaukuma
+Используется ,Izmanto
+Используется USB{},Izmanto USB{}
+"Испытания ракет продолжаются,","Raķešu izmēģinājumi turpinās,"
+Источник питания                : {},Barošanas avots                 : {}
+Итальянский,Itāļu
+Ищется control для ProgramId {},Meklē control priekš ProgramId {}
+Ищется exefs/romfs для ProgramId {},Meklē exefs/romfs priekš ProgramId {}
+Ищется exefs/romfs/logo для ProgramId {},Meklē exefs/romfs/logo priekš ProgramId {}
+Ищется {},Meklē {}
+ сортировка по месту установки,kārtot pēc instalācijas vietas
+Июль,Jūlijs
+Июнь,Jūnijs
+Канадский французский,Kanādas franču
+"Когда ваше устройство подключится, нажмите любую кнопку","Kad ierīce pievienosies, nospiediet jebko"
+Код партии батареи    : {} ({}),Baterijas partijas kods: {} ({})
+Кодировка,Kodējums
+Конвертация в фейковые ,Konvertēšana uz viltotiem
+Конец игры            : -,Spēles beigas         : -
+Конец игры            : {},Spēles beigas         : {}
+ сортировка по общему размеру,kārtot pēc kopējā izmēra
+Контент уже на месте,Saturs jau ir vietā
+Копирование IVFC слой {} в nca: {},Kopē IVFC slāni {} uz nca: {}
+Копирование PFS0 в nca,Kopē PFS0 uz nca
+Копирование PFS0 хэш таблицы в nca,Kopē PFS0 jaukšanas tabulu uz nca
+Копирование SDK {} в файл: {}...,Kopē SDK {} uz failu: {}...
+Копировать,Kopēt
+Корейский,Korejiešu
+Корень не найден,Sakne nav atrasta
+Корень сохранения не существует,Saglabājuma sakne neeksistē
+ сортировка по пользователю,kārtot pēc lietotāja
+Корея,Koreja
+Курсор на обеих панелях,Kursors abos paneļos
+Латиноамериканский испанский,Latīņamerikas spāņu
+Май,Maijs
+Март,Marts
+Масштаб: По ширине,Mērogs: Pēc platuma
+Масштаб: По экрану,Mērogs: Pēc ekrāna
+Масштаб: Точка в точку,Mērogs: Punkts punktā
+Масштаб: Увеличение x2,Mērogs: Palielinājums x2
+ сортировка по порядку игры,kārtot pēc spēļu secības
+Место в  NAND         : {},Vieta NAND            : {}
+Место на SD карте     : {},Vieta SD kartē        : {}
+Место на приставке не занято,Vieta konsolē nav aizņemta
+Место установки        : ,Instalācijas vieta     :
+Мета контент отсутствует,Meta saturs nav atrasts
+Миссия провалена\n\nНажмите А для выхода,"Misija neizdevās\n\nNospiediet A, lai izietu"
+Миссия успешна\n\nОсталось ходов: {}\n\nНажмите А для выхода,"Misija veiksmīga\n\nAtlikuši gājieni: {}\n\nNospiediet A, lai izietu"
+Модификация файла не удалась,Faila modificēšana neizdevās
+На выбранном устройстве нет достаточного свободного места для установки,Izvēlētajā ierīcē nav pietiekami daudz brīvas vietas instalēšanai
+На месте нет достаточно свободного места,Galamērķī nav pietiekami daudz brīvas vietas
+ сортировка по размеру,kārtot pēc izmēra
+Нажмите (+) для перезаписи конфига обновлённым\n\nЛюбую другую кнопку для пропуска,"Spiediet (+) konfig. pārrakstīšanai\n\nJebkuru citu pogu, lai izlaistu"
+"Нажмите (+) для удаления, любую другую кнопку для пропуска...\n (-) Удалять все, больше не спрашивая","Spiediet (+) dzēšanai, citu - izlaist...\n (-) Dzēst visu, vairs nejautājot"
+"Нажмите A, чтобы продолжить, другую кнопку, чтобы выйти","Spiediet A, lai turpinātu, citu - lai izietu"
+"Нажмите B, чтобы вернуться","Spiediet B, lai atgrieztos"
+Нажмите любую кнопку,Nospiediet jebkuru pogu
+Название: ,Nosaukums:
+Найден SDK: {},Atrasts SDK: {}
+Найден {} зарегистрированный контент-файл,Atrasts {} reģistrēts satura fails
+Найден {} контент-файл,Atrasts {} satura fails
+Найден {} пользователь,Atrasts {} lietotājs
+%% заряд-разряд    : {},%% uzlāde-izlāde   : {}
+Найден {} потерянный контент-файл,Atrasts {} pazaudēts satura fails
+Найден {} файл,Atrasts {} fails
+Найден {} файл с ошибками,Atrasts {} fails ar kļūdām
+Найден и удалён {} неиспользуемый тикет,Atrasts un dzēsts {} neizmantots tikets
+Найдена {} запись об игре,Atrasts {} spēles ieraksts
+Найдена {} запись об ошибках,Atrasts {} kļūdas ieraksts
+Найдена {} установленная игра,Atrasta {} instalēta spēle
+Найдено {} записей об играх,Atrasti {} spēļu ieraksti
+Найдено {} записей об ошибках,Atrasti {} kļūdu ieraksti
+Найдено {} записи об играх,Atrasti {} spēļu ieraksti
+    Дело здесь в одном из основных,Lieta ir vienā no galvenajiem
+({}/{}) Устанавливается {},({}/{}) Instalē {}
+Найдено {} записи об ошибках,Atrasti {} kļūdu ieraksti
+Найдено {} зарегистрированных контент-файла,Atrasti {} reģistrēti satura faili
+Найдено {} зарегистрированных контент-файлов,Atrasti {} reģistrēti satura faili
+Найдено {} контент-файла,Atrasti {} satura faili
+Найдено {} контент-файлов,Atrasti {} satura faili
+Найдено {} обновление,Atrasts {} atjauninājums
+Найдено {} обновлений,Atrasti {} atjauninājumi
+Найдено {} обновления,Atrasti {} atjauninājumi
+Найдено {} пользователей,Atrasti {} lietotāji
+Найдено {} пользователя,Atrasti {} lietotāji
+Найдено {} потерянных контент-файла,Atrasti {} pazaudēti satura faili
+Найдено {} потерянных контент-файлов,Atrasti {} pazaudēti satura faili
+Найдено {} сохранение,Atrasts {} saglabājums
+Найдено {} сохранение...,Atrasts {} saglabājums...
+Найдено {} сохранений,Atrasti {} saglabājumi
+Найдено {} сохранений...,Atrasti {} saglabājumi...
+Найдено {} сохранения,Atrasti {} saglabājumi
+Найдено {} сохранения...,Atrasti {} saglabājumi...
+Найдено {} установленные игры,Atrastas {} instalētas spēles
+Найдено {} установленных игр,Atrastas {} instalētas spēles
+Найдено {} файла,Atrasti {} faili
+Найдено {} файла с ошибками,Atrasti {} faili ar kļūdām
+Найдено {} файлов,Atrasti {} faili
+Найдено {} файлов с ошибками,Atrasti {} faili ar kļūdām
+Найдено и удалено {} неиспользуемых тикета,Atrasti un dzēsti {} neizmantoti tiketi
+Найдено и удалено {} неиспользуемых тикетов,Atrasti un dzēsti {} neizmantoti tiketi
+Найдено существующее сохранение. Восстанавливаю бекап в него...,Atrasts saglabājums. Atjaunoju rez. kopiju tajā...
+Настройки,Iestatījumi
+Настройки DBI,DBI iestatījumi
+Настройки FB2,FB2 iestatījumi
+Начало игры           : -,Spēles sākums         : -
+Начало игры           : {},Spēles sākums         : {}
+Начало создания Control.nca,Control.nca izveides sākums
+Начало создания Program.nca,Program.nca izveides sākums
+Начало установки. Место установки: ,Instalēšanas sākums. Vieta:
+Начать установку,Sākt instalēšanu
+Не доступно,Nav pieejams
+Не известно,Nav zināms
+"Не найден USB диск, который смог бы вместить получившийся дамп. Убедитесь, что он отформатирован в ExFAT.","Nav atrasts USB disks, kurā ietilptu dumps. Pārliecinieties, ka tas ir formatēts ExFAT."
+Не найдены требуемые тикеты,Nav atrasti nepieciešamie tiketi
+. Время простоя \x1b[33;1m{:02}:{:02}:{:02}\x1b[37;1m,. Dīkstāve \x1b[33;1m{:02}:{:02}:{:02}\x1b[37;1m
+Не получилось создать NSP,Neizdevās izveidot NSP
+Не удалось получить список,Neizdevās iegūt sarakstu
+Не удалось установить аватар\n{},Neizdevās iestatīt avataru\n{}
+Не установлен,Nav instalēts
+Невозможно найти путь,Nevar atrast ceļu
+Невозможно открыть папку журналов ошибок,Nevar atvērt kļūdu žurnālu mapi
+Невозможно переименовать '{}' в '{}':,Nevar pārdēvēt '{}' uz '{}':
+Невозможно получить список LFS,Nevar iegūt LFS sarakstu
+Невозможно получить список пользователей,Nevar iegūt lietotāju sarakstu
+Невозможно получить статус связи с Nintendo Account,Nevar iegūt Nintendo Account statusu
+...готово,...gatavs
+Невозможно получить число записей об ошибках,Nevar iegūt kļūdu ierakstu skaitu
+Невозможно прочитать общие тикеты,Nevar nolasīt kopīgos tiketus
+Невозможно прочитать персонализированные тикеты,Nevar nolasīt personīgos tiketus
+Невозможно разобрать content meta,Nevar analizēt content meta
+Невозможно разобрать content meta. Неожиданная ошибка,Nevar analizēt content meta. Negaidīta kļūda
+Невозможно разобрать content meta. УСТАРЕВШАЯ ПРОШИВКА. Требуется обновление HOS,Nevar analizēt content meta. VECA SISTĒMA. Nepieciešams HOS atjauninājums
+Невозможно разобрать nca. УСТАРЕВШАЯ ПРОШИВКА. Требуется обновление HOS,Nevar analizēt nca. VECA SISTĒMA. Nepieciešams HOS atjauninājums
+Невозможно разобрать индекс кеша,Nevar analizēt kešatmiņas indeksu
+Невозможно распаковать '{}':,Nevar atpakot '{}':
+Невозможно скопировать файл\n   '{}'\n➡ '{}'\n,Nevar kopēt failu\n   '{}'\n➡ '{}'\n
+Невозможно смонтировать сохранение,Nevar piemontēt saglabājumu
+Невозможно смонтировать устройство сохраниения,Nevar piemontēt saglabāšanas ierīci
+Невозможно создать выходной zip-файл: ,Nevar izveidot izejas zip failu:
+Невозможно создать каталог,Nevar izveidot katalogu
+Невозможно создать каталог '{}':,Nevar izveidot katalogu '{}':
+Невозможно создать файл,Nevar izveidot failu
+Невозможно создать файл '{}':,Nevar izveidot failu '{}':
+Недопустимый идентификатор,Nederīgs identifikators
+Неизвестная игра [{:016x}],Nezināma spēle [{:016x}]
+: {:>4} сохранение,: {:>4} saglabājums
+Неизвестно,Nezināms
+Неизвестный тайтл,Nezināms nosaukums
+Неиспользуемый тикет: ,Neizmantots tikets:
+Немецкий,Vācu
+Неправильное хранилище,Nepareiza krātuve
+Неправильный родительский объект,Nepareizs vecāku objekts
+Нет,Nē
+Нет ,Nē
+Нет VFS. Прекращение работы,Nav VFS. Darba pārtraukšana
+Нет exefs VFS. Прекращение работы,Nav exefs VFS. Darba pārtraukšana
+: {:>4} сохранений,: {:>4} saglabājumi
+Нет logo VFS. Прекращение работы,Nav logo VFS. Darba pārtraukšana
+Нет romfs VFS. Прекращение работы,Nav romfs VFS. Darba pārtraukšana
+Нет лого,Nav logo
+Нечего устанавливать,Nav ko instalēt
+Никнейм консоли         : {},Konsoles niks           : {}
+Но у гиби транзисторы собирают с,Bet pie gibiem tranzistorus vāc no
+Новое имя для '{}',Jauns vārds priekš '{}'
+Новый каталог,Jauns katalogs
+Новый размер сохранения в МБ,Jauns saglabājuma izmērs MB
+Новый рейтинг (-1 для удаления),Jauns reitings (-1 dzēšanai)
+: {:>4} сохранения,: {:>4} saglabājumi
+Номер страницы,Lapas numurs
+Ночь,Nakts
+Нужен связанный аккаунт,Vajadzīgs saistīts konts
+ОШИБКА ПОЛУЧЕНИЯ ЭКСТРА ДАННЫХ,KĻŪDA IEGŪSTOT EKSTRA DATUS
+Обнаружены недопустимые символы,Atrastas neatļautas rakstzīmes
+Обновить DBI,Atjaunināt DBI
+Обновить DBI из этого файла,Atjaunināt DBI no šī faila
+Обновить TitleDB,Atjaunināt TitleDB
+   {:>3} мин,{:>3} min
+Обновление TitleDB,TitleDB atjaunināšana
+Обновление базы данных...,Datu bāzes atjaunināšana...
+Обновление версии до {} {}\n\nНажмите (+) для продолжения\nЛюбую другую кнопку для отмены,"Versijas atjaunināšana uz {} {}\n\nSpiediet (+) lai turpinātu\nJebkuru citu pogu, lai atceltu"
+Обновление времени...,Laika atjaunināšana...
+Обновление закончено\n\nНажмите любую кнопку\nдля перезапуска DBI,Atjaunināšana pabeigta\n\nNospiediet jebkuru pogu\nlai pārstartētu DBI
+Обновление фейковой записи {} ➡ [v{}],Viltus ieraksta atjaunināšana {} ➡ [v{}]
+Обновление. Пожалуйста подождите...,Atjaunināšana. Lūdzu uzgaidiet...
+Обновляется запись об игре...,Atjaunina spēles ierakstu...
+Обрабатывается запись {:016X},Apstrādā ierakstu {:016X}
+Обратный альбом (180°),Apgriezts albums (180°)
+Обратный портрет (270°),Apgriezts portrets (270°)
+Общее время активной игры     : {} часов,Kopējais aktīvās spēles laiks : {} st.
+Общее время дампа {:d}:{:02d}:{:02d},Kopējais dump laiks {:d}:{:02d}:{:02d}
+Общее время запущенных игр    : {} часов,Kopējais palaisto spēļu laiks : {} st.
+Общее время игры      : -,Kopējais spēles laiks : -
+Общее время игры      : {:d} часов {:02d} минут,Kopējais spēles laiks : {:d} st. {:02d} min.
+Общее время установки: {:d}:{:02d}:{:02d},Kopējais instal. laiks: {:d}:{:02d}:{:02d}
+Общее время: {:02}:{:02}:{:02},Kopējais laiks: {:02}:{:02}:{:02}
+Общее занимаемое место: N:{} + S:{} = {},Kopā aizņemtā vieta: N:{} + S:{} = {}
+Общее число запусков  : -,Kopējais palaišanu skaits: -
+Общее число игровых сессий    : {},Kopējais spēļu sesiju skaits  : {}
+Общие,Vispār.
+Общий размер передачи  : ,Kopējais pārsūtīšanas izmērs:
+Общий размер установки : ,Kopējais instalācijas izmērs:
+Общий размер установки: {},Kopējais instalācijas izmērs: {}
+Объединение списков,Sarakstu apvienošana
+Объект {} не допустим,Objekts {} nav derīgs
+Объект {} не может быть создан,Objektu {} nevar izveidot
+Объект не открыт для редактирования,Objekts nav atvērts rediģēšanai
+Объект удалён,Objekts dzēsts
+Bluetooth MAC адрес   : {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X},Bluetooth MAC adrese  : {:02X}:{:02X}:{:02X}:{:02X}:{:02X}:{:02X}
+Объект уже открыт для редактирования,Objekts jau atvērts rediģēšanai
+Огибка получения адреса сокета: {} {},Kļūda iegūstot ligzdas adresi: {} {}
+Ожидаемый размер: {},Paredzamais izmērs: {}
+Ожидается ,Gaida
+Ожидается большой (>4GB) файл,Gaida lielu (>4GB) failu
+Ожидается запуск dbibackend на стороне ПК...,Gaida dbibackend palaišanu uz PC...
+Ожидание включения интерфейса: ,Gaida interfeisa ieslēgšanos:
+Ожидание: {} секунд,Gaida: {} sekundes
+Ожидание: {} секунда,Gaida: {} sekundi
+Ожидание: {} секунды,Gaida: {} sekundes
+CDIR в листинге,CDIR sarakstā
+Ориентация,Orientācija
+Ориентация...,Orientācija...
+Освобождено места в NAND: ,Atbrīvota vieta NAND:
+Освобождено места на SD : ,Atbrīvota vieta SD :
+Основной SDK не найден. Пробуем мультипрограмный вариант,Galvenais SDK nav atrasts. Mēģina multiprogrammu
+Оставить сохранения,Atstāt saglabājumus
+Осталось ходов:    {:>3},Atlikuši gājieni:  {:>3}
+Остаток файла пропускается,Faila atlikums tiek izlaists
+Отключение связи с мобильным приложением...,Atvienošanās no mobilās lietotnes...
+Configuration Id1     : {},Configuration Id1     : {}
+Открываем папку прошивки...,Atver sistēmas mapi...
+Открыть,Atvērt
+Открыть вторую панель,Atvērt otro paneli
+Открыть как 7Z,Atvērt kā 7Z
+Открыть как RAR,Atvērt kā RAR
+Открыть как ZIP,Atvērt kā ZIP
+Открыть как hex,Atvērt kā hex
+Открыть как текст,Atvērt kā tekstu
+Открыть контент по MTP,Atvērt saturu caur MTP
+Открыть папку LFS,Atvērt LFS mapi
+Content meta не найден. Установка прервана,Content meta nav atrasts. Instalēšana pārtraukta
+Отослано {}/{} байт,Nosūtīti {}/{} baiti
+Отсутствуют ES сигпатчи!,Trūkst ES sigpatches!
+Очистка /atmosphere/contents,Tīra /atmosphere/contents
+Очистка кеша rightsId...,Tīra rightsId kešatmiņu...
+Очистка папки...,Tīra mapi...
+Очистка плейсхолдеров...,Tīra vietas turētājus...
+Очистка системы от мусора,Sistēmas tīrīšana no drazas
+Очистка сохранений,Saglabājumu tīrīšana
+Очистка...,Tīrīšana...
+Ошибка FTP сервера,FTP servera kļūda
+DBI Просмотр альбома,DBI Albuma skatītājs
+Ошибка во время копирования файла,Kļūda faila kopēšanas laikā
+Ошибка во время обновления тайтла,Kļūda nosaukuma atjaunināšanas laikā
+Ошибка выделения сокета: {},Ligzdas piešķiršanas kļūda: {}
+Ошибка завершения соединения: {},Savienojuma pārtraukšanas kļūda: {}
+Ошибка загрузки картинки,Attēla ielādes kļūda
+Ошибка загрузки файла из альбома: {},Faila ielādes kļūda no albuma: {}
+Ошибка закрытия сокета: {},Ligzdas aizvēršanas kļūda: {}
+Ошибка записи файла: {},Faila rakstīšanas kļūda: {}
+Ошибка изменения размера файла,Faila izmēra maiņas kļūda
+Ошибка инициализации {}: {},Inic. kļūda {}: {}
+"DPAD и стики - прокрутка, L - стр. вверх, R - стр. вниз","DPAD un stiki - ritināt, L - lapa augšup, R - lapa lejup"
+Ошибка опроса сокета: {},Ligzdas aptaujas kļūda: {}
+Ошибка открытия каталога: {},Kataloga atvēršanas kļūda: {}
+Ошибка открытия сокета: {},Ligzdas atvēršanas kļūda: {}
+Ошибка открытия файла,Faila atvēršanas kļūda
+Ошибка открытия файла '{}': {},Faila '{}' atvēršanas kļūda: {}
+Ошибка открытия файла: {},Faila atvēršanas kļūda: {}
+Ошибка отсылки: {},Sūtīšanas kļūda: {}
+Ошибка переименования: {},Pārdēvēšanas kļūda: {}
+Ошибка подключения: {},Savienojuma kļūda: {}
+Ошибка подмены SDK: {},SDK aizstāšanas kļūda: {}
+"DPAD и стики - прокрутка, L - стр. вверх, R - стр. вниз, R3 - Текст/Hex","DPAD un stiki - ritināt, L/R - lapa, R3 - Teksts/Hex"
+Ошибка получения адреса узла: {},Mezgla adreses iegūšanas kļūda: {}
+Ошибка получения внеочередных данных: {},OOB datu iegūšanas kļūda: {}
+Ошибка получения имени сокета: {} {},Ligzdas vārda iegūšanas kļūda: {} {}
+Ошибка получения информаци о файле: {},Faila info iegūšanas kļūda: {}
+Ошибка получения размера файла: {},Faila izmēra iegūšanas kļūda: {}
+Ошибка получения флагов сокета: {},Ligzdas karogu iegūšanas kļūda: {}
+Ошибка получения хранилища {},Krātuves {} iegūšanas kļūda
+Ошибка получения: {},Iegūšanas kļūda: {}
+Ошибка получения: {} {},Iegūšanas kļūda: {} {}
+Ошибка посылки файла: {},Faila sūtīšanas kļūda: {}
+   Получение списка бекапов...   ,Rez. kopiju saraksta iegūšana...
+Ошибка привязки сокета к порту {}: {},Ligzdas piesaistes portam {} kļūda: {}
+Ошибка привязки: {},Piesaistes kļūda: {}
+Ошибка принятия соединения: {} {},Savienojuma pieņemšanas kļūda: {} {}
+Ошибка приёма соединения: {},Savienojuma pieņemšanas kļūda: {}
+Ошибка проверси метки сокета: {},Ligzdas atzīmes pārbaudes kļūda: {}
+Ошибка прослушивания: {},Klausīšanās kļūda: {}
+Ошибка прослушки сокета: {},Ligzdas klausīšanās kļūda: {}
+Ошибка сжатия,Kompresijas kļūda
+Ошибка создания каталога: {},Kataloga izveides kļūda: {}
+Ошибка создания сокета: {},Ligzdas izveides kļūda: {}
+DPAD/Стики - Навигация по страницам\n\n     ZR+ZL - Переход к странице... \n\n       L/R - Навигация по главам   \n\n       (-) - Эта подсказка         \n\n       (+) - Меню                  ,DPAD/Stiki - Navigācija pa lapām\n\n     ZR+ZL - Iet uz lapu... \n\n       L/R - Navigācija pa nodaļām   \n\n       (-) - Šis padoms         \n\n       (+) - Izvēlne
+Ошибка создания сохранения,Saglabājuma izveides kļūda
+Ошибка удаления каталога: {},Kataloga dzēšanas kļūda: {}
+Ошибка удаления файла: {},Faila dzēšanas kļūda: {}
+Ошибка установки флагов сокета: {},Ligzdas karogu iestatīšanas kļūda: {}
+Ошибка чтения записи об игре: {},Spēles ieraksta lasīšanas kļūda: {}
+Ошибка чтения каталога: {},Kataloga lasīšanas kļūda: {}
+Ошибка чтения регистров max17050: ,max17050 reģistru lasīšanas kļūda:
+Ошибка чтения сохранённых параметров контроллера: ,Kontrollera parametru lasīšanas kļūda:
+Ошибка чтения файла: {},Faila lasīšanas kļūda: {}
+DeviceId                : {0:} ({0:016X}),DeviceId                : {0:} ({0:016X})
+Ошибок не найдено,Kļūdas nav atrastas
+Ошибочный номер DLC (Должен быть в диапазоне 0x001-0x7FF),Kļūdains DLC nr. (Jābūt 0x001-0x7FF)
+Ошибочный номер DLC (Должен быть в диапазоне 1-2047),Kļūdains DLC nr. (Jābūt 1-2047)
+"Ошибочный тикет {0}: kg {1:02X}, pm {2:02X}","Kļūdains tikets {0}: kg {1:02X}, pm {2:02X}"
+Папка LFS не найдена,LFS mape nav atrasta
+Папка для бекапа сохранений,Saglabājumu rez. kopiju mape
+Папка для дампа игр,Spēļu dump mape
+Папка журналов,Žurnālu mape
+Папка обновления очищена,Atjauninājumu mape notīrīta
+DramId                  : {} ({}),DramId                  : {} ({})
+Параметры FTP,FTP parametri
+Параметры MTP,MTP parametri
+Параметры установки,Instalēšanas parametri
+Пароль,Parole
+Перевернуть джойконы,Apgriezt Joy-Con
+Перевернуть экран,Apgriezt ekrānu
+Передача окончена,Pārsūtīšana pabeigta
+Переименование объекта,Objekta pārdēvēšana
+Переименовать,Pārdēvēt
+Перейти к первой странице,Iet uz pirmo lapu
+Emummc включён              : {},Emummc ieslēgts             : {}
+Перейти к последней странице,Iet uz pēdējo lapu
+Перейти к странице...,Iet uz lapu...
+Переместить,Pārvietot
+Переместить в NAND,Pārvietot uz NAND
+Переместить на SD карту,Pārvietot uz SD karti
+"Перемещение {} ({}, {}) в {}","Pārvieto {} ({}, {}) uz {}"
+Перемещение {} записей,Pārvieto {} ierakstus
+Перемещение {} записи,Pārvieto {} ierakstus
+Перемещение {} игр,Pārvieto {} spēles
+Перемещение {} игры,Pārvieto {} spēles
+FTP сервер (нажмите B для остановки),"FTP serveris (nospiediet B, lai apturētu)"
+Перемещение контента,Satura pārvietošana
+Перенос строк,Rindu aplaušana
+Переносить слова,Vārdu aplaušana
+Переоткрытие ФС сохранения: {},Saglabājuma FS atvēršana: {}
+Пишется новая запись о контенте...,Raksta jaunu satura ierakstu...
+Пишется новый cnmt.nca...,Raksta jaunu cnmt.nca...
+Платформа               : {},Platforma               : {}
+Подготовка...,Sagatavošana...
+Подключаемся к {}...,Pievienojas pie {}...
+FullCap              : {:04x} ({} mAh),FullCap              : {:04x} ({} mAh)
+Подключено к {}:{},Pievienots pie {}:{}
+Подмена SDK,SDK aizstāšana
+Подменить SDK,Aizstāt SDK
+Подсвечивать файлы обновлений,Izcelt atjauninājumu failus
+Подсчитывается размер установки...,Aprēķina instalācijas izmēru...
+Подсчитывается размер установки...{}%,Aprēķina instalācijas izmēru...{}%
+Подсчитываются объекты в альбоме в NAND,Skaita objektus albumā NAND
+Подсчитываются объекты в альбоме на SD карте,Skaita objektus albumā SD kartē
+Подсчёт метаданных...,Metadatu skaitīšana...
+Подсчёт основного хэша,Galvenās jaukšanas skaitīšana
+FullCapNom           : {:04x} ({} mAh),FullCapNom           : {:04x} ({} mAh)
+Подсчёт хэша секции,Sekcijas jaukšanas skaitīšana
+"Пожалуйста, подключите вашу консоль к ПК кабелем USB Type-C или нажмите B","Lūdzu, pievienojiet konsoli pie PC ar USB Type-C kabeli vai nospiediet B"
+"Пожалуйста, подождите...","Lūdzu, uzgaidiet..."
+Поиск записей об ошибках,Kļūdu ierakstu meklēšana
+Поиск неиспользуемых тикетов,Neizmantoto tiketu meklēšana
+Поиск подготовленного системного обновления,Sagatavota sistēmas atjauninājuma meklēšana
+Поиск потерянных тайтлов,Pazaudēto nosaukumu meklēšana
+Поиск потерянных файлов в NAND,Pazaudēto failu meklēšana NAND
+Поиск потерянных файлов на SD,Pazaudēto failu meklēšana SD
+Поиск сохранений удалённых пользователей...,Meklē dzēsto lietotāju saglabājumus...
+Get chargeInfoFields : {},Get chargeInfoFields : {}
+Показываемая версия     : {},Rādītā versija          : {}
+Показываемое название   : {},Rādītais nosaukums      : {}
+Показывать 'Обновить отсюда',Rādīt 'Atjaunināt no šejienes'
+Показывать объединённый NSP,Rādīt apvienoto NSP
+Показывать папку 'Mods&Cheats',Rādīt 'Mods&Cheats' mapi
+Показывать прогрев кеша,Rādīt kešatmiņas sildīšanu
+Показывать размер LFS (долго),Rādīt LFS izmēru (ilgi)
+Показывать секунды,Rādīt sekundes
+Показывать часы в статусе,Rādīt pulksteni statusā
+Поколение ключа             : {},Atslēgas paaudze            : {}
+Git commit hash             : {:016X},Git commit hash             : {:016X}
+Полная ёмкость     : {} mAh,Pilna ietilpība    : {} mAh
+Получен список из {} записей,Saņemts saraksts ar {} ierakstiem
+Получен список из {} записи,Saņemts saraksts ar {} ierakstiem
+Получение версий установленных игр,Iegūst instalēto spēļu versijas
+Получение информации из hac_versionlist...,Iegūst info no hac_versionlist...
+Получение информации из системы...,Iegūst info no sistēmas...
+Получение информации об играх...,Iegūst info par spēlēm...
+Получение списка тикетов...,Iegūst tiketu sarakstu...
+Получение файла: {} МБ ({:.2f} МБ/сек),Saņem failu: {} MB ({:.2f} MB/s)
+Получение файла: {}/\x1b[36;1m{}\x1b[37;1m МБ (\x1b[32;1m{}%\x1b[37;1m) (\x1b[33;1m{:.2f}\x1b[37;1m МБ/сек),Saņem failu: {}/\x1b[36;1m{}\x1b[37;1m MB (\x1b[32;1m{}%\x1b[37;1m) (\x1b[33;1m{:.2f}\x1b[37;1m MB/s)
+   Получение списка бекапов...{}/{}    ,Rez. kopiju saraksta iegūšana...{}/{}
+IavgEmpty            : {:04x},IavgEmpty            : {:04x}
+Полученное время: {},Saņemtais laiks: {}
+Полученный размер: {},Saņemtais izmērs: {}
+"Получено: {}, ({:.2f} МБ/сек)","Saņemts: {}, ({:.2f} MB/s)"
+Пользователь {} не найден. Создание сохранения невозможно,Lietotājs {} nav atrasts. Saglabājumu nevar izveidot
+Пользователь не найден,Lietotājs nav atrasts
+Пользовательские хранилища,Lietotāja krātuves
+Попытаться разобрать,Mēģināt analizēt
+Попытка исправить,Mēģinājums labot
+Портрет (90°),Portrets (90°)
+Португальский,Portugāļu
+"L+⬅-Начало, L+➡-Конец, ZL-Регистр, ZR-Ввод, Y-Пробел, X-Забой, R3-Язык","L+⬅-Sākums, L+➡-Beigas, ZL-Reģistrs, ZR-Ievade, Y-Atstarpe, X-Dzēst, R3-Valoda"
+После удаления игры не будут запускаться,Pēc dzēšanas spēles nestrādās
+Посылается файл: {},Sūta failu: {}
+Посылается файл: {}/\x1b[36;1m{}\x1b[37;1m МБ (\x1b[32;1m{}\x1b[37;1m%) (\x1b[33;1m{:.2f}\x1b[37;1m МБ/сек),Sūta failu: {}/\x1b[36;1m{}\x1b[37;1m MB (\x1b[32;1m{}\x1b[37;1m%) (\x1b[33;1m{:.2f}\x1b[37;1m MB/s)
+Превышен размер командного буфера,Pārsniegts komandu bufera izmērs
+Предел входного тока            : {} mA,Ieejas strāvas robeža           : {} mA
+Предел напряжения заряда батареи: {} mV,Baterijas uzlādes sprieg. robeža: {} mV
+LFS мод.: -,LFS mod.: -
+Предназначение          : {},Paredzēts               : {}
+Предоставить по FTP,Nodrošināt caur FTP
+Предупреждения: ,Brīdinājumi:
+Прекращение прослушивания на {}:{},Klausīšanās pārtraukšana uz {}:{}
+Прервано пользователем,Pārtrauca lietotājs
+Привязка к {}:{},Piesaiste pie {}:{}
+Принято соединение от {}:{},Pieņemts savienojums no {}:{}
+Проверить целостность,Pārbaudīt integritāti
+"LFS мод.: Присутствует, Размер: ","LFS mod.: Ir, Izmērs:"
+Проверка magic...,Pārbauda magic...
+"Проверка {} ({}, {}), {}","Pārbauda {} ({}, {}), {}"
+Проверка картриджа...,Kārtridža pārbaude...
+Проверка на наличие  {}...,"Pārbauda, vai ir {}..."
+Проверка обновлений,Atjauninājumu pārbaude
+Проверка обновлений игр,Spēļu atjauninājumu pārbaude
+Проверка сохранений,Saglabājumu pārbaude
+Проверка целостности ({}),Integritātes pārbaude ({})
+Проверяется: {},Pārbauda: {}
+Проверять хэш при установке,Pārbaudīt jaukšanu instalējot
+"LFS мод.: Присутствует, Размер: подсчёт отключен в настройках","LFS mod.: Ir, Izmērs: skaitīšana atslēgta iestatījumos"
+Проверяются бекапы...,Pārbauda rez. kopijas...
+Проверяются сохранения,Pārbauda saglabājumus
+Программа {}. Control не найдена,Programma {}. Control nav atrasta
+Программа {}. Exefs не найдена,Programma {}. Exefs nav atrasta
+Программа {}. Romfs не найдена,Programma {}. Romfs nav atrasta
+Произошла неизвестная ошибка,Radās nezināma kļūda
+Произошла ошибка:,Radās kļūda:
+Произошла ошибка: ,Radās kļūda:
+Произошла ошибка: {},Radās kļūda: {}
+Пропускаем файл до начала secure раздела ,Izlaiž failu līdz secure sākumam
+LFS папка игры,LFS spēles mape
+Пропускается: {}          \r,Izlaiž: {}          \r
+Прослушивание на {}:{},Klausās uz {}:{}
+Просмотр SD карты,SD kartes pārlūkošana
+Просмотр USB носителей,USB datu nesēju pārlūkošana
+Просмотр альбома по HTTP,Albuma pārlūkošana caur HTTP
+Просмотр раздела SYSTEM,SYSTEM sadaļas pārlūkošana
+Просмотр раздела USER,USER sadaļas pārlūkošana
+Просмотр сети,Tīkla pārlūkošana
+MTP Респондер (нажмите B для остановки),"MTP Atbildētājs (nospiediet B, lai apturētu)"
+Просмотр сохранений,Saglabājumu pārlūkošana
+Просмотр тикетов,Tiketu pārlūkošana
+Просмотр установленных игр,Instalēto spēļu pārlūkošana
+Просмотреть игры,Pārlūkot spēles
+Просто запуск,Vienkārši palaist
+Разбор,Analīze
+Раздел secure не найден,Secure sadaļa nav atrasta
+Размер  : ,Izmērs  :
+"Размер  : {}, {} файл","Izmērs  : {}, {} fails"
+"Размер  : {}, {} файла","Izmērs  : {}, {} faili"
+"Размер  : {}, {} файлов","Izmērs  : {}, {} faili"
+Размер посылаемого файла   : {},Sūtāmā faila izmērs        : {}
+Размер сохранений     : {},Saglabājumu izmērs    : {}
+Размер: {},Izmērs: {}
+Разрешено,Atļauts
+Распаковать в подкаталог,Atpakot apakškatalogā
+Распаковать сюда,Atpakot šeit
+Распаковка файла,Faila atpakošana
+Растущие цветы:     {},Augošie ziedi:      {}
+Nintendo Account задан и связан,Nintendo Account iestatīts un saistīts
+Регион                  : {},Reģions                 : {}
+Регистрация контента {}...,Satura reģistrācija {}...
+Регистрация файла {}...,Faila reģistrācija {}...
+Регистры котроллера MAX17050,MAX17050 kontrollera reģistri
+Редактирование возрастного рейтинга...,Vecuma reitinga rediģēšana...
+Редактирование запретов,Aizliegumu rediģēšana
+Режим HiZ зарядки       : {},HiZ uzlādes režīms      : {}
+Режим киоска            : {},Kioska režīms           : {}
+Рендеринг FB2,FB2 renderēšana
+Решено послать одного из шадоков на,Nolēma sūtīt vienu no šadokiem uz
+"Nintendo Account задан, но не связан","Nintendo Account iestatīts, bet nav saistīts"
+Родительский PIN        : {},Vecāku PIN              : {}
+Сброс требуемой версии,Nepieciešamās versijas atiestate
+Сброс требуемой версии к ,Nepieciešamās versijas atiestate uz
+Сбросить требуемую версию,Atiestatīt nepieciešamo versiju
+Сведения,Informācija
+Сведения...,Informācija...
+Свободное место в хранилище: {},Brīva vieta krātuvē: {}
+Свободное место: {},Brīva vieta: {}
+Сгенерировать и установить,Ģenerēt un instalēt
+   Получение списка сохранений...   ,Saglabājumu saraksta iegūšana...
+Nintendo Account не задан,Nintendo Account nav iestatīts
+Сдампить на SD карту,Dump uz SD karti
+Сдампить на внешний USB,Dump uz ārējo USB
+Сдампить текущую прошивку,Dump pašreizējo sistēmu
+Сдамплено: {}/{} ({}%) ({:.2f} МБ/сек),Dump: {}/{} ({}%) ({:.2f} MB/s)
+Сделать бекап,Izveidot rez. kopiju
+"Сделать бекап, если новее","Izveidot rez. kopiju, ja jaunāka"
+Северная Америка,Ziemeļamerika
+Сентябрь,Septembris
+Сепия,Sēpija
+Сервер запущен,Serveris palaists
+Сервер предлагает выполнить обновление DBI\n\nНажите (+) для согласия\nЛюбую другую кнопку для отмены,"Serveris piedāvā atjaunināt DBI\n\nSpiediet (+) lai piekristu\nJebkuru citu pogu, lai atceltu"
+Серийный # прочитанный  : {},Sērijas # nolasīts      : {}
+Серийный # угаданный    : {},Sērijas # uzminēts      : {}
+Серийный номер        : {},Sērijas numurs        : {}
+Сессии,Sesijas
+Сессия закрыта,Sesija slēgta
+Сессия открыта,Sesija atvērta
+Силовая роль                    : {},Jaudas loma                     : {}
+Синхронизация времени по NTP,Laika sinhronizācija caur NTP
+Системные приложения,Sistēmas lietotnes
+QrTable00            : {:04x},QrTable00            : {:04x}
+Системный по умолчанию,Sistēmas noklusējums
+Сканирование директорий...,Direktoriju skenēšana...
+Сканирование игр...,Spēļu skenēšana...
+Скачано {}/{},Lejupiel. {}/{}
+Скачивание файла не удалось,Faila lejupielāde neizdevās
+Скорость USB интерфейса: ,USB interfeisa ātrums:
+Скорость передачи: {:.2f} МБ/сек,Pārsūtīšanas ātrums: {:.2f} MB/s
+Смещать курсор после выделения,Pārvietot kursoru pēc atlases
+Собираются сведения...,Vāc informāciju...
+Соединение сброшено,Savienojums atiestatīts
+QrTable10            : {:04x},QrTable10            : {:04x}
+Сожжено предохранителей : {},Sadedzināti drošinātāji : {}
+Создавать LFS папку,Izveidot LFS mapi
+Создан zip-файл: ,Izveidots zip fails:
+Создание DLC анлокера,DLC atbloķētāja izveide
+Создание NSP,NSP izveide
+Создание sdmc:/versions.txt,sdmc:/versions.txt izveide
+Создание бекапа сохранения ,Saglabājuma rez. kop. izveide
+Создание дампа ({}),Dump izveide ({})
+Создание дампа: {},Dump izveide: {}
+Создание единого репака,Vienota repaka izveide
+QrTable20            : {:04x},QrTable20            : {:04x}
+Создание записи об игре...,Spēles ieraksta izveide...
+Создание каталога: ,Kataloga izveide:
+Создание новой записи об игре...,Jauna spēles ieraksta izveide...
+Создание объекта: ,Objekta izveide:
+Создание плейсхолдера: {}...,Vietas turētāja izveide: {}...
+"Создание репака Id: {:016X}, Версия: {}, Тип: {}","Repaka izveide Id: {:016X}, Ver: {}, Tips: {}"
+Создание строк... {}%,Rindu izveide... {}%
+Создание таблицы имён,Vārdu tabulas izveide
+Создание тела файла,Faila ķermeņa izveide
+Создание точки доступа...,Piekļuves punkta izveide...
+QrTable30            : {:04x},QrTable30            : {:04x}
+Создание фейковой записи... ,Viltus ieraksta izveide...
+Создание хэш таблицы,Jaukšanas tabulas izveide
+Создание ярлыка,Saīsnes izveide
+Создано новое сохранение. Восстанавливаю бекап в него...,Izveidots jauns saglabājums. Atjaunoju rez. kop...
+Создать sdmc:/versions.txt,Izveidot sdmc:/versions.txt
+Создать единый репак,Izveidot vienotu repaku
+Создать новое сохранение...,Izveidot jaunu saglabājumu...
+Создать новый каталог...,Izveidot jaunu katalogu...
+Создать новый файл...,Izveidot jaunu failu...
+Создать ярлык,Izveidot saīsni
+RCOMP0               : {:04x},RCOMP0               : {:04x}
+Создать ярлык для hbmenu,Izveidot saīsni priekš hbmenu
+Создать ярлык на рабочий стол для DBI...,Izveidot saīsni uz darbvirsmas priekš DBI...
+Создать ярлык с аргументами...,Izveidot saīsni ar argumentiem...
+Создаётся MTP хранилище: ,Veido MTP krātuvi:
+Создаётся обновлённая запись об игре...,Veido atjauninātu spēles ierakstu...
+Сохранение для {} уже существует,Saglabājums priekš {} jau eksistē
+Сохранения,Saglabājumi
+Сохранения будут удалены!,Saglabājumi tiks dzēsti!
+Сохранения только в RO режиме,Saglabājumi tikai RO režīmā
+RTC запущены (приблизительно) : {},RTC palaisti (aptuveni)       : {}
+Сохранения удалённых игр ({}),Dzēsto spēļu saglabājumi ({})
+Сохранения установленных игр ({}),Instalēto spēļu saglabājumi ({})
+Сохранёные в системе параметры котроллера батареи,Sistēmā saglabātie baterijas kontrollera parametri
+Средняя температура: {}°C,Vidējā temperatūra: {}°C
+Статистика игры ,Spēles statistika
+Строка поиска: ,Meklēšanas rinda:
+Сумма %% заряд-разряд: {} (~{} 0-100 циклов),Summa %% uzlāde-izlāde: {} (~{} 0-100 cikli)
+Существующая запись об игре не найдена,Esošs spēles ieraksts nav atrasts
+Существующее сохранение не найдено и новое не может быть создано,"Esošs saglabājums nav atrasts, jaunu nevar izveidot"
+SDK {} уже был экспортирован: {},SDK {} jau tika eksportēts: {}
+Тайтл не установлен,Nosaukums nav instalēts
+Тайтл установлен,Nosaukums instalēts
+Тайтлы с ошибками:,Nosaukumi ar kļūdām:
+Текущая ёмкость                 : {}%,Pašreizējā ietilpība            : {}%
+Текущая ёмкость    : {} mAh,Pašreizējā ietilpība: {} mAh
+Текущее время: {},Pašreizējais laiks: {}
+Текущее напряжение : {} mV,Pašreizējais spriegums: {} mV
+Текущий заряд      : {}%,Pašreizējā uzlāde  : {}%
+Текущий ток        : {} mA,Pašreizējā strāva  : {} mA
+SDK на подмену не найдены,SDK aizstāšanai nav atrasti
+Тема,Tēma
+Тема отображения,Attēlošanas tēma
+Температура        : {}°C,Temperatūra        : {}°C
+Температура батареи             : {}°C,Baterijas temperatūra           : {}°C
+Тикет исправлен,Tikets izlabots
+Тикеты,Tiketi
+Тикеты не найдены,Tiketi nav atrasti
+Тип SoC                 : {},SoC tips                : {}
+Тип источника питания          : {},Barošanas avota tips           : {}
